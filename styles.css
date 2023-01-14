@@ -8,3 +8,63 @@
 body{
     background-color: azure;
 }
+
+header{
+    border: 1px solid red;
+    height: 100vh;
+    
+}
+
+.nav-center{
+
+}
+
+.nav-header{
+    border: 1px solid;
+}
+
+.nav-center img{
+   width: 4%;
+}
+
+.links-container{
+    display: none;
+}
+
+.banner{
+    background: url("Screenshot\ apple-landing-page.png");
+     text-align: center;
+     display: flex;
+     background-repeat: no-repeat;
+     /*object-fit: contain;  */
+     justify-content: center;
+     background-size: cover; 
+     align-items: center;
+     height: 75%;
+}
+
+.banner .container{
+   display: flex;
+   border: 1px solid;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   width: 50%;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
